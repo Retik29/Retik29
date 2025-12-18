@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Retik Yadav, a Full-Stack Developer focused on building real-world, scalable web applications.<br><br>🎓 B.Tech student | 💻 MERN Stack Developer 🌱 Currently improving backend architecture, authentication, and system design 📌 Actively seeking internship opportunities
+I'm Retik Yadav, a Full-Stack Developer focused on building real-world, scalable web applications.<br><br>🎓 B.Tech student <br><br>💻 MERN Stack Developer <br><br>🌱 Currently improving backend architecture, authentication, and system design <br><br>📌 Actively seeking internship opportunities
 
 
 ## 🌐 Socials:
