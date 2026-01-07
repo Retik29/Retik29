@@ -24,4 +24,4 @@ I'm Retik Yadav, a Full-Stack Developer focused on building real-world, scalable
 ---
 [![](https://visitcount.itsvg.in/api?id=Retik29&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in) -->
