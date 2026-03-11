@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Retik's Banner" width="100%" style="height: 250px; object-fit: cover; border-radius: 12px;">
+  <img src="assets/banner.png" alt="Retik's Banner" width="100%" style="height: 300px; object-fit: cover; border-radius: 12px;">
 </div>
 
 <div align="center">
@@ -88,7 +88,5 @@
 <hr>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Retik29&icon=5&color=0" alt="Visit Count">
-  <br>
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </div>
