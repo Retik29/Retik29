@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Retik's Banner" width="100%">
+  <img src="assets/banner.png" alt="Retik's Banner" width="100%" style="height: 250px; object-fit: cover; border-radius: 12px;">
 </div>
 
 <div align="center">
@@ -34,7 +34,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhiazN6ajVqZzN6ZzN6ZzN6ZzN6ZzN6ZzN6ZzN6ZzN6ZzN6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L18eMUGDk3vcwOPUGy/giphy.gif" width="220" alt="Astronaut">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHUxdzZ6ZzN6ZzN6ZzN6ZzN6ZzN6ZzN6ZzN6ZzN6ZzAmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" alt="Astronaut">
     </td>
   </tr>
 </table>
