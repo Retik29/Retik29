@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Retik's Banner" width="100%" style="height: 300px; object-fit: cover; border-radius: 12px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:007bff&height=280&section=header&text=Retik%20Yadav&fontSize=70&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descSize=25&descAlignY=60" alt="Retik's Banner" width="100%">
 </div>
 
 <div align="center">
@@ -83,6 +83,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retik29&layout=compact&theme=dark" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Retik29&theme=react&bg_color=0d1117&color=00e5ff&line=00e5ff&point=00e5ff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph">
 </p>
 
 <hr>
