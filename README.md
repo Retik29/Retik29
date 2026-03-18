@@ -31,10 +31,10 @@
         <li>📌 Actively seeking internship opportunities</li>
         <li>🚀 Love exploring new technologies and solving complex problems</li>
       </ul>
-    </td>
+    <!-- </td>
     <td width="40%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" alt="Retik playing football doing coding and various other activities">
-    </td>
+    </td> -->
   </tr>
 </table>
 
