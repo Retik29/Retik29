@@ -92,5 +92,5 @@
 <hr>
 
 <div align="center">
-  <i>"It's not who I am underneath, but my code that defines me." — The Dark Knight</i>
+  <i>"I am the shadows"</i>
 </div>
