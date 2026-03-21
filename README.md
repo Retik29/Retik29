@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/P1t2K-E_e7EAAAAC/bat-signal-batman.gif" alt="Batman Logo Background" width="100%" height="280" style="object-fit: cover; border-radius: 12px;">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FFEB3B&center=true&vCenter=true&width=700&lines=Retik+Yadav;Debugging+in+the+Shadows;Building+Scalable+Solutions;The+Dark+Knight+of+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=100&color=FFEB3B&center=true&vCenter=true&width=700&lines=Retik+Yadav;Debugging+in+the+Shadows;Building+Scalable+Solutions;The+Dark+Knight+of+Code" alt="Typing SVG" />
 </div>
 
 <div align="center">
