@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=280&section=header&text=Retik%20Yadav&fontSize=70&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descSize=25&descAlignY=60&fontColor=FFEB3B" alt="Retik's Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:1a1a1a&height=280&section=header&text=Retik%20Yadav&fontSize=70&animation=scaleIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descSize=25&descAlignY=60&fontColor=FFEB3B" alt="Retik's Banner" width="100%">
 </div>
 
 <div align="center">
