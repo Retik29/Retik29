@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:1a1a1a&height=280&section=header&text=Retik%20Yadav&fontSize=70&animation=scaleIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descSize=25&descAlignY=60&fontColor=FFEB3B" alt="Retik's Banner" width="100%">
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIP2IGSBi/giphy.gif" alt="Batman Logo Background" width="100%" height="280" style="object-fit: cover; border-radius: 12px;">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FFEB3B&center=true&vCenter=true&width=600&lines=Retik+Yadav;MERN+Stack+Developer;Aspiring+Full-Stack+Architect" alt="Typing SVG" />
 </div>
 
 <div align="center">
