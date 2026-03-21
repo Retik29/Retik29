@@ -17,19 +17,19 @@
 
 <hr>
 
-## 👤 About Me
+## <img src="https://api.iconify.design/mdi:account.svg?color=%23FFEB3B" width="28" align="absmiddle" /> About Me
 
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3>Hello there! I'm <b>Retik Yadav</b> 👋</h3>
+      <h3>Hello there! I'm <b>Retik Yadav</b> <img src="https://api.iconify.design/mdi:hand-wave.svg?color=%23FFEB3B" width="28" align="absmiddle" /></h3>
       <p>I'm a <b>Full-Stack Developer</b> focused on building real-world, scalable web applications. Currently a B.Tech student and a passionate MERN Stack developer, always looking for new challenges to improve my skills.</p>
       <ul>
-        <li>🎓 <b>B.Tech Student</b></li>
-        <li>💻 <b>MERN Stack Developer</b></li>
-        <li>🌱 Currently refining backend architecture and system design</li>
-        <li>📌 Actively seeking internship opportunities</li>
-        <li>🚀 Love exploring new technologies and solving complex problems</li>
+        <li><img src="https://api.iconify.design/mdi:school.svg?color=%23FFEB3B" width="20" align="absmiddle" /> <b>B.Tech Student</b></li>
+        <li><img src="https://api.iconify.design/mdi:laptop.svg?color=%23FFEB3B" width="20" align="absmiddle" /> <b>MERN Stack Developer</b></li>
+        <li><img src="https://api.iconify.design/mdi:leaf.svg?color=%23FFEB3B" width="20" align="absmiddle" /> Currently refining backend architecture and system design</li>
+        <li><img src="https://api.iconify.design/mdi:pin.svg?color=%23FFEB3B" width="20" align="absmiddle" /> Actively seeking internship opportunities</li>
+        <li><img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%23FFEB3B" width="20" align="absmiddle" /> Love exploring new technologies and solving complex problems</li>
       </ul>
     <!-- </td>
     <td width="40%" align="center" valign="middle">
@@ -40,9 +40,9 @@
 
 <hr>
 
-## 🛠️ Technologies
+## <img src="https://api.iconify.design/mdi:tools.svg?color=%23FFEB3B" width="28" align="absmiddle" /> Technologies
 
-### 💻 Languages & Frameworks
+### <img src="https://api.iconify.design/mdi:code-tags.svg?color=%23FFEB3B" width="22" align="absmiddle" /> Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFEB3B" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFEB3B" alt="React">
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnu-bash&logoColor=FFEB3B" alt="Bash">
 </p>
 
-### 🗄️ Database & Cloud
+### <img src="https://api.iconify.design/mdi:database.svg?color=%23FFEB3B" width="22" align="absmiddle" /> Database & Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FFEB3B" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFEB3B" alt="MySQL">
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=FFEB3B" alt="Render">
 </p>
 
-### 🎨 Tools
+### <img src="https://api.iconify.design/mdi:palette.svg?color=%23FFEB3B" width="22" align="absmiddle" /> Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFEB3B" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFEB3B" alt="GitHub">
@@ -74,7 +74,7 @@
 
 <hr>
 
-## 📉 Statistics
+## <img src="https://api.iconify.design/mdi:chart-line.svg?color=%23FFEB3B" width="28" align="absmiddle" /> Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Retik29&show_icons=true&bg_color=000000&title_color=FFEB3B&text_color=ffffff&icon_color=FFEB3B&border_color=222222&hide_border=true" alt="GitHub Stats">
