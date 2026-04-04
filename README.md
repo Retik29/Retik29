@@ -29,7 +29,7 @@
         <li><img src="https://api.iconify.design/mdi:laptop.svg?color=%23FFEB3B" width="20" align="absmiddle" /> <b>MERN Stack Developer</b></li>
         <li><img src="https://api.iconify.design/mdi:leaf.svg?color=%23FFEB3B" width="20" align="absmiddle" /> Currently refining backend architecture and system design</li>
         <li><img src="https://api.iconify.design/mdi:pin.svg?color=%23FFEB3B" width="20" align="absmiddle" /> Actively seeking internship opportunities</li>
-        <li><img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%23FFEB3B" width="20" align="absmiddle" /> Love exploring new technologies and solving complex problems</li>
+        <li><img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%23FFEB3B" width="20" align="absmiddle" /> Loves exploring new technologies and solving complex problems</li>
       </ul>
     <!-- </td>
     <td width="40%" align="center" valign="middle">
